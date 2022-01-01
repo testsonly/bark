@@ -1,4 +1,4 @@
-package bark
+package barky
 
 import "fmt"
 
